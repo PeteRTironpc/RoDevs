@@ -1,2 +1,2 @@
-# RoDevs
-Application for the RoDevs Scripter Role
+# HiddenDevs
+Application for the HiddenDevs Scripter Role
